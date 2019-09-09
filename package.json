@@ -1,0 +1,21 @@
+{
+  "name": "home-made-obfuscator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1"
+  },
+  "dependencies": {
+    "shift-ast": "^6.0.1",
+    "shift-parser": "^7.0.0",
+    "shift-refactor": "^0.3.0"
+  }
+}
